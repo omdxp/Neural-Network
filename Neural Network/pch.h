@@ -10,5 +10,12 @@
 #define PCH_H
 
 // TODO: add headers that you want to pre-compile here
+#include "Neuron.h"
+#include "Matrix.h"
+#include "Layer.h"
+#include "Math.h"
+#include "Misc.h"
+#include "NeuralNetwork.h"
+#include "json.hpp"
 
 #endif //PCH_H
